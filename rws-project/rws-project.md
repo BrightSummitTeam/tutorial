@@ -22,10 +22,10 @@
 
 
 ### 总图(业务中台为黑色框框部分)
-![](https://github.com/BrightSummitTeam/tutorial/blob/master/rws-project/rws-project-business.png)
+![](./rws-project-business.png)
 
 ### 业务中台
-![](https://github.com/BrightSummitTeam/tutorial/blob/master/rws-project/rws-project-business-mid-end.png)
+![](./rws-project-business-mid-end.png)
 
 ### 技术概述
 
