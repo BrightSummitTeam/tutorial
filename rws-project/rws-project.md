@@ -21,11 +21,11 @@
 ||rwscxm-datatokenization|rwscxm-datatokenization.jar|加密程序-单独打成jar包发送给客户部署，用于加密stageserver数据
 
 
-###总图(业务中台为黑色框框部分)
-![](./rws-project-business.png)
+### 总图(业务中台为黑色框框部分)
+![](https://github.com/BrightSummitTeam/tutorial/blob/master/rws-project/rws-project-business.png)
 
-###业务中台
-![](./rws-project-business-mid-end.png)
+### 业务中台
+![](https://github.com/BrightSummitTeam/tutorial/blob/master/rws-project/rws-project-business-mid-end.png)
 
 ### 技术概述
 
@@ -98,7 +98,7 @@ List<XXX> XXX = xxxMapper.selectList();
 
 #### Application Configuration Manager(阿里云提供的应用配置管理功能)
 	
-####修改配置的方式:
+#### 修改配置的方式:
 
 >1.项目resource目录下:
 ```
